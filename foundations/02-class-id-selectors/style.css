@@ -1,0 +1,35 @@
+/* .number:nth-child(odd) {
+  background-color: #f08080;
+  font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+}
+.number:nth-child(2) {
+  color: #0000ff;
+  font-size: 36px;
+}
+.number:nth-child(3) {
+  font-size: 24px;
+}
+.number:nth-child(4) {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+} */
+.number {
+  background-color: #f08080;
+  font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+}
+
+#two {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.three {
+  font-size: 24px;
+}
+
+#four {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
